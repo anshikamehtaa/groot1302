@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @groot1302
+- 👋 Hi, I’m Anshika
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning C,CSS and MYSQL
 - 💞️ I’m looking to collaborate on web development projects and hackathons.
