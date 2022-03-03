@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anshika
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning C,CSS and MYSQL
-- 💞️ I’m looking to collaborate on web development projects and hackathons.
+- 🌱 I’m currently learning C,C++ and Python
+- 💞️ I’m looking to collaborate on projects and hackathons.
 
 
 <!---
